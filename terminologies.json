@@ -287,6 +287,24 @@
     "OMOP": null,
     "CodeSystems": ""
   },
+    {
+    "Namespace": "ICPC",
+    "Issuer": "World Health Organization",
+    "Description": "International Classification of Primary Care",
+    "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-primary-care",
+    "HL7_URI": "http://terminology.hl7.org/CodeSystem/icpc-ENG",
+    "OMOP": null,
+    "CodeSystems": ""
+  },
+    {
+    "Namespace": "ICPC-2",
+    "Issuer": "World Health Organization",
+    "Description": "International Classification of Primary Care 2nd Edition",
+    "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-primary-care",
+    "HL7_URI": "http://hl7.org/fhir/sid/icpc-2",
+    "OMOP": null,
+    "CodeSystems": ""
+  },
   {
     "Namespace": "JAX",
     "Issuer": "The Jackson Laboratory",
@@ -572,7 +590,7 @@
     "Description": "OHDSI Standardized Vocabularies",
     "URL": "https://ohdsi.org/",
     "HL7_URI": "https://terminology.hl7.org/CodeSystem-OMOP.html",
-    "OMOP": null,
+    "OMOP": "OMOP Extension",
     "CodeSystems": ""
   }
 ]
