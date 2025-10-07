@@ -144,6 +144,15 @@
     "CodeSystems": ""
   },
   {
+    "Namespace": "FEST",
+    "Issuer": "Norwegian Medical Products Agency (NOMA)",
+    "Description": "Electronic Prescription Support System (FEST)",
+    "URL": "https://www.dmp.no/en/about-us/distribution-of-data-on-medicinal-products/electronic-prescription-support-system-fest",
+    "HL7_URI": null,
+    "OMOP": null,
+    "CodeSystems": ""
+  },
+  {
     "Namespace": "GMDN",
     "Issuer": "Global Medical Device Nomenclature Agency",
     "Description": "Global Medical Device Nomenclature",
