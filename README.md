@@ -8,6 +8,17 @@ If you encounter a terminology that is missing, please make a PULL-REQUEST.
 
 Spaces are not allowed in the Namespace, - is to be used instead. 
 
+Legend:
+| Column Name   | Description                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| Namespace      | The unique short name identifying the coding system or terminology.          |
+| Issuer         | The organization or authority responsible for maintaining the terminology.   |
+| Description    | A brief explanation of what the terminology or dataset represents.           |
+| URL            | Official website or documentation link for the terminology.                 |
+| HL7_URI        | HL7 FHIR or related URI for referencing the terminology in HL7 systems.     |
+| OMOP           | The corresponding OMOP vocabulary name (if applicable).                     |
+| CodeSystems    | Notes or details about internal organization of code systems (if any).      |
+
 
 Current list:
 
