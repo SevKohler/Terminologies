@@ -9,7 +9,7 @@
     "CodeSystems": ""
   },
   {
-    "Namespace": "ATC/DDD",
+    "Namespace": "ATC-DDD",
     "Issuer": "World Health Organization",
     "Description": "Defined Daily Dose for each substance",
     "URL": "https://atcddd.fhi.no/atc_ddd_index/",
@@ -447,15 +447,6 @@
     "URL": "https://www.snomed.org/",
     "HL7_URI": "http://snomed.info/vet",
     "OMOP": "SNOMED Veterinary",
-    "CodeSystems": ""
-  },
-  {
-    "Namespace": "S2",
-    "Issuer": "S2 Health",
-    "Description": "Computable knowledge resources for Health IT",
-    "URL": "https://s2health.org/",
-    "HL7_URI": null,
-    "OMOP": null,
     "CodeSystems": ""
   },
   {
